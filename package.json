@@ -1,0 +1,9 @@
+{
+	"name": "rbxdata",
+	"private": true,
+	"author": "Stephen Leitnick",
+	"dependencies": {
+		"body-parser": "^1.18.3",
+		"express": "^4.16.4"
+	}
+}
